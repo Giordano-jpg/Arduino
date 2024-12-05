@@ -1,5 +1,10 @@
 # Arduino
-Proyectos de Arduino
+Apuntes:
+
+* En el “setup” declaramos las salidas o entradas. (Variables globales)
+> Las variables globales se declaran fuera de cualquier función, normalmente al principio del código. (A veces se pueden considerar a las variables declaradas dentro del setup como variables globales)
+
+* El ánodo (terminal largo) del LED va hacia el número, y el cátodo (terminal corto) hacia la resistencia.
 
 
 # Comandos útiles para Github
