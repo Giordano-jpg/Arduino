@@ -60,7 +60,7 @@ git config --global user.email "TuEmail"
    ```
    git pull
    ```
-2. Agrega los archivos al seguimiento de Git:
+2. Agrega los archivos al seguimiento de Git _(todo el contenido de nuestro repositorio local se cargará al repositorio de Github)_:
    ```
    git add .
    ```
