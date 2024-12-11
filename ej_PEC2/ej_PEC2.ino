@@ -3,7 +3,7 @@ byte led[] = {13,12,11,10,9};
 byte i = 0;
 
 void setup() {
-  for(i=0; i<5; i++){
+  for(i=0; i<5; i= i+1){
     pinMode(led[i], OUTPUT);
   }
 
