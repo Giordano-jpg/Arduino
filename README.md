@@ -56,7 +56,7 @@ git config --global user.email "TuEmail"
    ```
 
 ## Actualizar y subir cambios
-1. Si otros colaboradores han subido cambios al repositorio remoto es necesario cargar los cambios:
+1. *Si otros colaboradores han subido cambios al repositorio remoto es necesario cargar los cambios:*
    ```
    git pull
    ```
@@ -65,11 +65,11 @@ git config --global user.email "TuEmail"
    git add .
    ```
    (Usa ```git add archivo.txt``` si quieres agregar un archivo específico.)
-4. Crea un commit con un mensaje descriptivo:
+3. Crea un commit con un mensaje descriptivo:
    ```
    git commit -m "Descripción de los cambios"
    ```
-5. Sube los cambios a GitHub:
+4. Sube los cambios a GitHub:
    ```
    git push -u origin main
    ```
